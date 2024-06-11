@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm Currently working on Data Science field<br>I'm looking to contribute to open-source data science projects <br>I'm looking for help on developing a project<br>Ask me about Data Analytics<br>
+I'm Currently working on Data Science field<br>I'm looking to contribute to open-source data science projects <br>Ask me about Data Analytics<br>
 
 
 ## 🌐 Socials:
